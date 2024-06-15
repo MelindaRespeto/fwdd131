@@ -1,1 +1,1 @@
-This will be my repository foe web fundamentals
+This will be my repository for web fundamentals
